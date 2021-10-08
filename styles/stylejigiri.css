@@ -1,0 +1,32 @@
+#hero
+{
+    height: 100vh;
+    width: 100%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    
+    
+}
+.mtimg{
+    height: 100%;
+    width: 90%;
+}
+.container{
+    width: 90%;
+    height: 100%;
+    max-width: 1000px;
+    display: flex;
+    align-items:center;
+    justify-content: left;
+    float: left;
+
+}
+#title{
+    padding-left: 5%;
+}
+.info{
+    padding-top: 5em;
+    justify-content: center;
+
+}
+
