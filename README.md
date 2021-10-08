@@ -1,2 +1,6 @@
 # JIGIRI_website
-jigiri is a website for students
+JIGIRI IS THE WEBSITE FOR STUDENTS .
+
+ADD SOME SECTONS AND ARRANGE THE TEXTS INTO IT..
+
+
